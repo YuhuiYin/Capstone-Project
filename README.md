@@ -10,11 +10,11 @@ In this project, I did exploratory analysis of what sorts of people were likely 
 This project is inspired by the competition on [Kaggle](https://www.kaggle.com/c/titanic/overview).
 
 ## File Descriptions
-There is one notebook and a report available here to showcase work related to this project.\
+There is one notebook available here to showcase work related to this project.\
 In addition, there is a data folder containing data used in this project as well as a csv document containing the result of my prediction.
 
 ## Results
-The main findings of the code can be found at the Capstone Project Report.
+The main findings of the code can be found [here](https://medium.com/@yuhui6yin/titanic-machine-learning-from-disaster-aa32b81eda7c).
 
 ## Licensing, Authors, Acknowledgements
 You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/c/titanic/data). 
